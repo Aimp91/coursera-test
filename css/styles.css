@@ -22,16 +22,7 @@ ul .element {
 
 .content-menu {
     padding: 1%;
-    height: 700px;
-}
-
-.col-xxs-12 {
-    position: relative;
-    min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
-    float: left;
-    height: 100%;
+    height: auto;
 }
 
 .content-menu-item {
@@ -43,5 +34,3 @@ ul .element {
     color: rgb(118, 156, 238);
     text-decoration: underline
 }
-
-​
